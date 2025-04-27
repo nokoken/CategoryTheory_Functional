@@ -1,5 +1,6 @@
 module Tree where
 import Data.Char
+-- 関手の例（Tree String -> Tree Intへと移っているので関手と言える）
 
 data Tree a = Empty | Node a (Tree a) (Tree a)
 
