@@ -28,6 +28,7 @@ stack ghc ファイル名
 root/
    ├ BinaryTree/
    |  ├ Tree.hs
-   |  └ main.hs
+   |  ├ main.hs
+   |  └ mirror.hs
    └ README.md
 ```
