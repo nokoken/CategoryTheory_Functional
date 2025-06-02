@@ -4,4 +4,4 @@ main :: IO ()
 main = do
     let treeoriginal = Node "five" (Node "six" Empty Empty)
                                (Node "seven" Empty Empty)
-    print treeoriginal
+    print tree1
