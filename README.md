@@ -30,5 +30,8 @@ root/
    |  ├ Tree.hs
    |  ├ main.hs
    |  └ mirror.hs
+   ├ DirectProduct/
+   |  ├ product.hs
+   |  └ main.hs
    └ README.md
 ```
