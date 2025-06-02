@@ -4,6 +4,9 @@
 # .gitignoreファイル自体は無視しない
 !.gitignore
 
+# Licenseファイルは無視しない
+!LICENSE
+
 # .hsファイルは無視しない
 !*.hs
 
