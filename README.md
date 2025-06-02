@@ -14,11 +14,18 @@ Glasgow Haskell Compiler, Version 9.8.2, stage 2 booted by GHC version 9.6.3
 Version 3.5.1, Git revision 5c774d7ca92f4716ef7a51d5da21a5c3713517a5 aarch64 hpack-0.38.0
 ```
 
-## 実行方法
-<p>実行するにはstackをインストールした環境にて以下のコマンドを打ってください</p>
+## コンパイル方法
+<p>コンパイルするにはstackをインストールした環境にて以下のコマンドを打ってください</p>
 
 ```
-stack ghc ファイル名
+% stack ghc ファイル名
+```
+
+## 実行方法
+<p>実行するには以下のコマンドを打ってください</p>
+
+```
+% ファイル名(拡張子なし ex)main.hsをコンパイルしたならmainと入力)
 ```
 
 ## ファイル構成
