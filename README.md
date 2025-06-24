@@ -40,5 +40,8 @@ root/
    ├ DirectProduct/
    |  ├ product.hs
    |  └ main.hs
+   ├ DirectSum/
+   |  ├ coproduct.hs
+   |  └ main.hs
    └ README.md
 ```
