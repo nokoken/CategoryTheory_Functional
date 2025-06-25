@@ -25,7 +25,7 @@ Version 3.5.1, Git revision 5c774d7ca92f4716ef7a51d5da21a5c3713517a5 aarch64 hpa
 <p>実行するには以下のコマンドを打ってください</p>
 
 ```
-% ファイル名(拡張子なし ex)main.hsをコンパイルしたならmainと入力)
+% ファイル名(拡張子なし ex）main.hsをコンパイルしたならmainと入力)
 ```
 
 ## ファイル構成
@@ -43,5 +43,10 @@ root/
    ├ DirectSum/
    |  ├ coproduct.hs
    |  └ main.hs
+   ├ Limit/
+   |  ├ equalizer.hs
+   |  ├ fiberproduct.hs
+   |  ├ main.hs
+   |  └ main2.hs
    └ README.md
 ```
