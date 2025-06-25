@@ -1,4 +1,5 @@
 module CoProduct where
+-- 余積（圏）の例（（SetA, SetB）-> SetXへ移っている）
 
 data SetA = A7 | A8 | A9 deriving (Enum, Show)
 data SetB = Ba | Bb deriving (Enum, Show)
