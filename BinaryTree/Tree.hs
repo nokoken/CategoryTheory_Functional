@@ -20,7 +20,7 @@ indent n = replicate (n*4) ' '
 
 instance Functor Tree where
     fmap f Empty = Empty
-    fmap f (Node x t1 t2)=
+    fmap f (Node x t1 t2) =
         Node (f x) (fmap f t1) (fmap f t2)
 
 tree2 = Node "two" (Node "three" Empty Empty)
