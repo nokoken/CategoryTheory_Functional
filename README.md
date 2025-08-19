@@ -37,6 +37,9 @@ root/
    |  ├ Tree.hs
    |  ├ main.hs
    |  └ mirror.hs
+   ├ CoLimit/
+   |  ├ fibercoproduct.hs
+   |  └ main.hs
    ├ DirectProduct/
    |  ├ product.hs
    |  └ main.hs
@@ -48,5 +51,12 @@ root/
    |  ├ fiberproduct.hs
    |  ├ main.hs
    |  └ main2.hs
+   ├ MoggiIdea/
+   |  ├ CalcWithOutput.hs
+   |  ├ NonDeterministic.hs
+   |  ├ main.hs
+   |  └ main2.hs
+   ├ Proof/
+   |   └Equivalence_of_Category_is_Equivalence_relation
    └ README.md
 ```
